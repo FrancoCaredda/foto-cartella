@@ -1,0 +1,25 @@
+nav#main-header,
+footer#main-footer {
+    height: 103px;
+}
+
+nav#main-header {
+    margin-bottom: 20px;
+}
+
+nav#main-header div.title,
+footer#main-footer div.title {
+    width: 200px;
+    font-size: 20px;
+}
+
+ul#links a {
+    display: inline;
+}
+
+ul#links {
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 23px;
+}
+
